@@ -4,23 +4,33 @@
     <title>Et'Blog</title>
     <link  href="https://static01.imgkr.com/temp/10ae6adf866a49e4aca8d7689963df70.ico"  rel="shortcut icon" type="image/x-icon" />
     <style>
-      p.phase{
-	      word-wrap: break-word; 
-	      word-break: normal;
+    body{
+    	background-color: rgba(211,244,244,0.4);
+    }
+    p.paragraph{
+	    word-wrap: break-word; 
+	    word-break: normal;
         margin-left: 100px;
         margin-right: 100px;
         font-size: 25px;
         text-indent:2em;
-	      border-style: none;
-	      background-color: rgba(211,244,244,0.4);
+	    border-style: none;
+	    background-color: rgba(255,255,255,0.2);
     }
-	h1{
+	h1.title{
 		text-align:center;
+		font-size: 35px;
+	}
+	h3.subtitle{
+		text-align:center;
+		color: #e7eaed;
+		font-size: 25px;
 	}
     </style>
   </head>
   <body>
-    <h1 id="title">This is the first test!</h1>
-    <p id="paragraph" class="phase">Hello, world!这是一个测试，用于测试css样式</p>
+    <h1 id="title" class="title">This is the first test!</h1>
+    <h3 class="subtitle">——The first test</h3>
+    <p id="paragraph" class="paragraph">Hello, world!这是一个测试，用于测试css样式</p>
   </body>
 </html>
