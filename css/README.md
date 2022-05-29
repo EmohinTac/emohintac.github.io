@@ -18,3 +18,9 @@
 
 ---
 引用方法```<link rel="stylesheet" href=" ">```
+所以就是
+```
+<a href="https://emohintac.xyz" style="text-decoration:none">
+			<p class="homepage">Emohintac主站</p>
+		</a>
+```
