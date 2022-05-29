@@ -3,7 +3,6 @@
     }
     	p.paragraph{
 		word-wrap: break-word; 
-		word-break: normal;
         	margin-left: 100px;
         	margin-right: 100px;
         	font-size: 25px;
