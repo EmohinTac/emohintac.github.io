@@ -1,5 +1,6 @@
 # 显然，这里包含了一些css外部样式表
 * blog样式表链接：https://emohintac.xyz/css/blog.css
+* homepage样式表链接：https://emohintac.xyz/css/homepage.css
 ---
 ### blog.css包含如下样式：
 * body中规定了背景色为rgba(211,244,244,0.4)
@@ -12,5 +13,6 @@
 ### homepage.css包含如下样式：
 * p.homepage 是这个
 ![94af599c1a5aea3cf08f3816682ee76c.png](https://img.gejiba.com/images/94af599c1a5aea3cf08f3816682ee76c.png)
+
 **p.homepage必须写EmohinTac主站/EmohinTac主页。总之是13个字母的长度，同时套到```<a href="https://emohintac.xyz" style="text-decoration:none;"> </a>```里**
 ---
