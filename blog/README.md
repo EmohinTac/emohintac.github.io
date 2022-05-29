@@ -12,5 +12,5 @@
 ### homepage.css包含如下样式：
 * p.homepage 是这个
 ![94af599c1a5aea3cf08f3816682ee76c.png](https://img.gejiba.com/images/94af599c1a5aea3cf08f3816682ee76c.png)
-**p.homepage必须写EmohinTac主站/EmohinTac主页。总之是13个字母的长度，同时套到<a href="https://emohintac.xyz" style="text-decoration:none;"> </a>里**
+**p.homepage必须写EmohinTac主站/EmohinTac主页。总之是13个字母的长度，同时套到```<a href="https://emohintac.xyz" style="text-decoration:none;"> </a>```里**
 ---
