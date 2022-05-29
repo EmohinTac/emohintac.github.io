@@ -1,9 +1,10 @@
 p.homepage{
 		color: #86ccff;
 		font-size:15px;
-		margin-right:616px;
 		border: 1px solid rgba(173, 216, 230, 0.6);
 		border-radius: 12px;
-    background-color: rgba(173, 216, 230, 0.6);
-    text-indent:5px;
+    		background-color: rgba(173, 216, 230, 0.6);
+    		text-indent:5px;
+  		width: 120px;
+    		text-indent:5px;
 }
