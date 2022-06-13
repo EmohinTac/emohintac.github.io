@@ -1,5 +1,6 @@
 # emohintac.github.io
 ---
+$\color{#66ccff}{猫咪猫咪}$
 ### 5.29
 * 基本写好了Blog CSS框架
 ### 5.28
