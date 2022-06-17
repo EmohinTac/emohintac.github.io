@@ -7,7 +7,7 @@
   		background-size: cover;
   		background-attachment: fixed;
     }
-    	p.paragraph{
+    	.paragraph{
 		word-wrap: break-word; 
         	margin-left: 100px;
         	margin-right: 100px;
@@ -19,7 +19,7 @@
             	backdrop-filter: blur(5px);
                 letter-spacing: 1px;
     }
-	h1.title{ 
+	.title{ 
 		text-align:center;
 		font-size: 35px;
         	color: white;
@@ -31,7 +31,7 @@
         	margin-left: 100px;
         	margin-right: 100px;
 	}
-	h3.deptitle{
+	.deptitle{
 		text-align:center;
 		color: #ffffff;
         	font-size:20px;
@@ -45,7 +45,7 @@
         	margin-top: -20px;
         	margin-bottom: -20px;
 	}
-	h3.subtitle{
+	.subtitle{
 		color: rgba(255,255,255,0.7);
 		border-left:3px solid rgba(255,255,255,0.7);
 		margin-block-start: 1em;
